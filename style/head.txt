@@ -1,0 +1,20 @@
+<head>
+<style>
+@media (width<=768px) {
+.ko_Theme .logoHolder {
+margin: 0 !important
+}
+}
+</style>
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="bimpro">
+<meta name="application-name" content="bimpro">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-config" content="https://raw.githubusercontent.com/bimpro-ch/website/main/favicon/browserconfig.xml">
+<meta name="theme-color" content="#000000">
